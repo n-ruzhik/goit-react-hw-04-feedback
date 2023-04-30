@@ -1,0 +1,44 @@
+.label {
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.btnValueList {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    padding: 0;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.good {
+    font-size: 24px;
+    font-weight: 700;
+    color: green;
+}
+
+.neutral {
+    font-size: 24px;
+    font-weight: 700;
+    color: orange;
+}
+
+.bad {
+    font-size: 24px;
+    font-weight: 700;
+    color: red;
+}
+
+.calcDataList {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.text {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
